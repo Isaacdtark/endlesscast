@@ -1,1 +1,2 @@
-# endlesscast
+#The EndlessCast site 
+#The podcast with the most planned and unrecorded episodes in history...
